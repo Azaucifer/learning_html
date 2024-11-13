@@ -35,6 +35,6 @@ The `<body>` section displays the visible content of the webpage:
 2. Place an image named `html5.png` in the same directory to display the favicon.
 3. Open the HTML file in any web browser (e.g., Chrome, Firefox, Edge) to view the webpage.
 
-## Purpose
+## 🔮Purpose
 
 This project is intended as an introductory exercise to help learners understand basic HTML structure, metadata, and inline CSS styling.
