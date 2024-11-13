@@ -1,8 +1,8 @@
-# My First WebPage
+#  1️⃣ My First WebPage
 
 This project contains the HTML code for a simple webpage. It serves as an introduction to HTML and demonstrates the basic structure of an HTML document. The page displays a simple "Hello World!" message, making it a great starting point for anyone new to HTML.
 
-## Code Overview
+## 📜Code Overview
 
 The HTML file includes the following main parts:
 
@@ -17,11 +17,11 @@ The HTML file includes the following main parts:
   - **Heading**: `<h1>Hello World!</h1>` displays the main heading on the page.
   - **Paragraph**: `<p>This is my first webpage.</p>` provides a short message below the heading.
 
-## How to View the Webpage
+## 💻How to View the Webpage
 
 1. Clone or download this HTML file to your local machine.
 2. Open the file with any web browser (e.g., Chrome, Firefox, Edge) by double-clicking the file or using the browser’s "Open File" option.
 
-## Purpose
+## 🔮Purpose
 
 This project is an exercise to learn and understand basic HTML structure, elements, and metadata.
