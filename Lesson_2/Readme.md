@@ -9,7 +9,7 @@ The HTML file includes the following sections:
 - **DOCTYPE Declaration**: `<!DOCTYPE html>` specifies that this is an HTML5 document.
 - **HTML Element**: `<html lang="en">` wraps all the content and sets the language to English.
 
-### 🧠Head Section
+### 😸Head Section
 
 The `<head>` section contains metadata, page styling, and a favicon:
   - **Charset**: `<meta charset="UTF-8">` sets the character encoding to UTF-8 for proper text display.
