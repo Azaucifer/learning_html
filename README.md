@@ -43,6 +43,9 @@ This repository covers a variety of HTML topics, from the basics of tags and str
    - Inline vs. Block elements
    - Basic HTML5 features
 
+## 💡 Purpose
+This repository is intended as an educational resource to help learners understand and practice the basics of HTML. Each example provides a practical demonstration of HTML tags and concepts, making it easier to grasp how they work together to create structured web content.
+
 ## 📋How to Use
 
 1. Clone the repository to your local machine:
