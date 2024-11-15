@@ -38,7 +38,7 @@ The `<body>` section displays the visible content of the webpage:
   - **List of Places to Avoid**: `<h3>Places I'd Avoid</h3> <p><strong>Hmm...</strong> need to think about this.</p>`
 - **Footer**: `&lt;&lt;&lt; &copy; Shams &gt;&gt;&gt;`
 
-### Explanation of Tags and Elements
+### 👨🏽‍🏫Explanation of Tags and Elements
 1. **`<!DOCTYPE html>`**: Declares the document type and version of HTML (HTML5).
 2. **`<html lang="en">`**: The root element of an HTML document, specifying the language as English.
 3. **`<head>`**: Contains meta-information about the HTML document, such as the title, character set, author, description, and links to external resources.
