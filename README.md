@@ -57,6 +57,7 @@ This repository is intended as an educational resource to help learners understa
 
 ## 🛠Contributing
 If you'd like to contribute by adding examples or correcting any errors, feel free to open a pull request. Contributions and feedback are always welcome!
+Refer this <a href="https://github.com/Azaucifer/learning_html/blob/main/CONTRIBUTING.md">Documentation</a> for all the rules to follow when contributing to this repo.
 
 ## 📚Resources
 
